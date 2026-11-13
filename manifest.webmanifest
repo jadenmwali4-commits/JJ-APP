@@ -1,0 +1,17 @@
+{
+  "name": "Glow Up HQ",
+  "short_name": "Glow Up HQ",
+  "description": "Your personal glow-up planner",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101b25",
+  "theme_color": "#101b25",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
